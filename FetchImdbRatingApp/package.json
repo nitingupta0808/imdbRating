@@ -1,0 +1,11 @@
+{
+  "name": "imdbratingfinder",
+  "version": "1.0.0",
+  "description": "This app will read the directory structure and find the imdb rating for all the media files, if exists",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nitingupta0808",
+  "license": "ISC"
+}
